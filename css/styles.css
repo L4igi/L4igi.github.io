@@ -4255,7 +4255,7 @@ textarea.form-control-lg {
 }
 
 .card {
-  min-height: 400px;
+  min-height: 440px;
   position: relative;
   display: flex;
   flex-direction: column;
