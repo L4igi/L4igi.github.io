@@ -10894,8 +10894,8 @@ html {
 .btn-social {
   border-radius: 100%;
   display: inline-flex;
-  width: 3.25rem;
-  height: 3.25rem;
+  width: 5.25rem;
+  height: 5.25rem;
   font-size: 1.25rem;
   justify-content: center;
   align-items: center;
@@ -11054,7 +11054,7 @@ html {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: var(--bs-dark);
 }
 
 .custom_video {
